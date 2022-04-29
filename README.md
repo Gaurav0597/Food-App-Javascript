@@ -1,4 +1,4 @@
-Deploy Link:- https://food-application-sudhirchavhan100-gmailcom.vercel.app/
+Deploy Link:- https://food-app-henna.vercel.app/
 
 <h3>Home Page when user visit the Food App. User can see random recipe of the day</h3>
 <img src="https://user-images.githubusercontent.com/95076519/165962008-8dde04ee-dd77-4f81-b9f2-44fa05970617.png"/>
