@@ -3,7 +3,7 @@ Deploy Link:- https://food-application-sudhirchavhan100-gmailcom.vercel.app/
 <h3>Home Page when user visit the Food App. User can see random recipe of the day</h3>
 <img src="https://user-images.githubusercontent.com/95076519/165962008-8dde04ee-dd77-4f81-b9f2-44fa05970617.png"/>
 
-<h3>When user visit the Food App You need to signin first and then login with the same username and password.After login User can see his name in the navbar</h3>
+<h3>When user visit the Food App user need to sign in first and then login with the same username and password.After login User can see his name in the navbar</h3>
 <img src="https://user-images.githubusercontent.com/95076519/165964044-4a1bfe49-a105-4c21-9d79-fe6d29a4b360.png"/>
 
 <h3>If user wants to search his favourite recipe then user need to search in search bar.User will get suggestion related to that recipe</h3>
